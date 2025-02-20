@@ -8,6 +8,7 @@ const web3 = new Web3("HTTP://127.0.0.1:7545");
 const contractAddress  = "0x9E6d7554080Ea8cC9cd341717B473596141BCA7f";
 
 
+
 const contract = new web3.eth.Contract(ABI,contractAddress);
 
 const x = contract.methods.x().call().then(console.log);
