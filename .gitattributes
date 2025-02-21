@@ -4,6 +4,4 @@
 *.tsx linguist-detectable=true
 
 * linguist-language=JavaScript
-* linguist-language=Web3.Js
-* linguist-language=Soladity
-* 
+
