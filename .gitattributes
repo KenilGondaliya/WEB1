@@ -1,0 +1,9 @@
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+
+* linguist-language=JavaScript
+* linguist-language=Web3.Js
+* linguist-language=Soladity
+* 
