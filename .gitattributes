@@ -3,5 +3,5 @@
 *.ts linguist-detectable=true
 *.tsx linguist-detectable=true
 
-* linguist-language=JavaScript
+* linguist-language=Soladity
 
